@@ -2219,19 +2219,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\DINA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\FullstackReact\\Back-End\\Stackup.Api\\Stackup.Api.csproj",
+      "projectUniqueName": "C:\\Users\\DINA\\Documents\\FullstackReact\\Back-End\\Stackup.Api\\Stackup.Api.csproj",
       "projectName": "Stackup.Api",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\FullstackReact\\Back-End\\Stackup.Api\\Stackup.Api.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\FullstackReact\\Back-End\\Stackup.Api\\obj\\",
+      "projectPath": "C:\\Users\\DINA\\Documents\\FullstackReact\\Back-End\\Stackup.Api\\Stackup.Api.csproj",
+      "packagesPath": "C:\\Users\\DINA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DINA\\Documents\\FullstackReact\\Back-End\\Stackup.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DINA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
